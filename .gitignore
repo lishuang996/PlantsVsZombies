@@ -14,3 +14,5 @@ CMakeUserPresets.json
 cmake-build-*
 
 .idea
+
+build
